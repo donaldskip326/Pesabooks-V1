@@ -329,57 +329,6 @@
 "@firebase/webchannel-wrapper@0.2.8":
   version "0.2.8"
   resolved "https://registry.yarnpkg.com/@firebase/webchannel-wrapper/-/webchannel-wrapper-0.2.8.tgz#38a936b60b898a1ad0f3719543ff1a1031f60f8b"
-
-"@fortawesome/angular-fontawesome@prerelease":
-  version "0.1.0-10"
-  resolved "https://npm.fontawesome.com/90D0CBF9-4276-40D2-8DCF-AF63695006C2/@fortawesome/angular-fontawesome/-/angular-fontawesome-0.1.0-10.tgz#27684efffde1ab7bd67ec479f5597712da273ad7"
-  dependencies:
-    tslib "^1.7.1"
-
-"@fortawesome/fontawesome-common-types@^0.1.2-1":
-  version "0.1.6"
-  resolved "https://npm.fontawesome.com/90D0CBF9-4276-40D2-8DCF-AF63695006C2/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.1.6.tgz#3cefd6cd88a2256e1daa69b6fc9a6ab5e3c33e4a"
-
-"@fortawesome/fontawesome-common-types@^0.2.0-9":
-  version "0.2.4"
-  resolved "https://npm.fontawesome.com/90D0CBF9-4276-40D2-8DCF-AF63695006C2/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.4.tgz#7c560ff732c6c7c7c179ae25227ce5449e6f6d65"
-
-"@fortawesome/fontawesome-free-brands@^5.1.0-3":
-  version "5.1.0-3"
-  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free-brands/-/fontawesome-free-brands-5.1.0-3.tgz#27efbae1bd80fb9deb10022e2834e16f08a73480"
-  dependencies:
-    "@fortawesome/fontawesome-common-types" "^0.1.2-1"
-
-"@fortawesome/fontawesome-pro-light@prerelease":
-  version "5.1.0-3"
-  resolved "https://npm.fontawesome.com/90D0CBF9-4276-40D2-8DCF-AF63695006C2/@fortawesome/fontawesome-pro-light/-/fontawesome-pro-light-5.1.0-3.tgz#eef253540988547ac1d85c0b36cdde6e4aba15f9"
-  dependencies:
-    "@fortawesome/fontawesome-common-types" "^0.1.2-1"
-
-"@fortawesome/fontawesome-pro-regular@prerelease":
-  version "5.1.0-3"
-  resolved "https://npm.fontawesome.com/90D0CBF9-4276-40D2-8DCF-AF63695006C2/@fortawesome/fontawesome-pro-regular/-/fontawesome-pro-regular-5.1.0-3.tgz#918ee3fd5eaf7acc870a401a8d23235b2f498279"
-  dependencies:
-    "@fortawesome/fontawesome-common-types" "^0.1.2-1"
-
-"@fortawesome/fontawesome-pro-solid@prerelease":
-  version "5.1.0-3"
-  resolved "https://npm.fontawesome.com/90D0CBF9-4276-40D2-8DCF-AF63695006C2/@fortawesome/fontawesome-pro-solid/-/fontawesome-pro-solid-5.1.0-3.tgz#3e3aed4f25edec4db2bd7fd5f8547bb8e672c364"
-  dependencies:
-    "@fortawesome/fontawesome-common-types" "^0.1.2-1"
-
-"@fortawesome/fontawesome-svg-core@prerelease":
-  version "1.2.0-14"
-  resolved "https://npm.fontawesome.com/90D0CBF9-4276-40D2-8DCF-AF63695006C2/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.0-14.tgz#48100da29b39658fad374ebd1386161ab35af564"
-  dependencies:
-    "@fortawesome/fontawesome-common-types" "^0.2.0-9"
-
-"@fortawesome/free-solid-svg-icons@prerelease":
-  version "5.1.0-11"
-  resolved "https://npm.fontawesome.com/90D0CBF9-4276-40D2-8DCF-AF63695006C2/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-5.1.0-11.tgz#4a346eaada93276edb133b140492e8d7cfa2aa47"
-  dependencies:
-    "@fortawesome/fontawesome-common-types" "^0.2.0-9"
-
 "@ngtools/webpack@6.0.8":
   version "6.0.8"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-6.0.8.tgz#a05bce526aee9da62bb230a95fba83fee99d0bca"
